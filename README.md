@@ -2,7 +2,7 @@
 This Software is created by Swivano Agmal during IoT-PCR reasearch Project in Research Center for Physics-LIPI
 
 ## Definition
-PCR is Polymerease Chain Reaction which realted with multiplication of DNA. We use thermal cyler as a machine to do this reaction. 
+PCR is Polymerease Chain Reaction which realted with multiplication of DNA. We use thermal cycler as a machine to do this reaction. 
 
 ## Based On LIPI Research Project to attain Covid19 Issues
 
