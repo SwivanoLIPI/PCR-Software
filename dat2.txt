@@ -1,0 +1,10 @@
+Curve 1|Effective Area|1|10
+Curve 2|Effective Area|2|20
+Curve 3|Effective Area|3|30
+Curve 4|Effective Area|4|40
+Curve 5|Effective Area|5|50
+Curve 6|Effective Area|6|60
+Curve 7|Effective Area|7|70
+Curve 8|Effective Area|8|80
+Curve 9|Effective Area|9|90
+Curve 10|Effective Area|10|100

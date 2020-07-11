@@ -1,0 +1,10 @@
+Curve|Parameter|Maximum Point (Y)|X Max-Coordinate|Minimum Point (Y)|X Min-Coordinate|X-Max|Y-Max|X-Min|Y-Min
+Curve 1|Oxygen Debit|329E-13|400E0|822E-15|100E-1|512,5|5E-11|-102,5
+Curve 2|Oxygen Debit|164E-13|400E0|411E-15|100E-1|512,5|5E-11|-102,5
+Curve 3|Oxygen Debit|110E-13|400E0|274E-15|100E-1|512,5|5E-11|-102,5
+Curve 4|Oxygen Debit|822E-14|400E0|205E-15|100E-1|512,5|5E-11|-102,5
+Curve 5|Oxygen Debit|657E-14|400E0|164E-15|100E-1|512,5|5E-11|-102,5
+Curve 6|Oxygen Debit|548E-14|400E0|137E-15|100E-1|512,5|5E-11|-102,5
+Curve 7|Oxygen Debit|470E-14|400E0|117E-15|100E-1|512,5|5E-11|-102,5
+Curve 8|Oxygen Debit|411E-14|400E0|103E-15|100E-1|512,5|5E-11|-102,5
+Curve 9|Oxygen Debit|365E-14|400E0|913E-16|100E-1|512,5|5E-11|-102,5

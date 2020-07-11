@@ -1,0 +1,28 @@
+	Object	Total Lines in Form	Number of lines code	Number of Comments	Lines of White Space	Potentially Broken/Unfinished Flags	Potentially Dangerous Code			Total Lines in Form	Number of lines code	Number of Comments	Lines of White Space	Potentially Broken/Unfinished Flags	Potentially Dangerous Code
+	Form1.Designer.vb	5323	4083	415	5	0	0			12335	10510	649	86	0	0
+	Form1.vb	3440	3433	0	7	0	0								
+	Form10.Designer.vb	90	66	10	4	0	0								
+	Form10.vb	86	84	0	2	0	0								
+	Form2.Designer.vb	86	65	9	4	0	0								
+	Form2.vb	16	16	0	0	0	0								
+	Form3.Designer.vb	119	89	12	4	0	0								
+	Form3.vb	40	40	0	0	0	0								
+	Form4.Designer.vb	382	292	32	4	0	0								
+	Form4.vb	195	193	0	2	0	0								
+	Form5.Designer.vb	553	424	45	4	0	0								
+	Form5.vb	440	438	2	0	0	0								
+	Form6.Designer.vb	188	146	16	4	0	0								
+	Form6.vb	130	130	0	0	0	0	Total Lines in Form	12335						
+	Form7.Designer.vb	80	59	9	4	0	0	Number of lines code	10510						
+	Form7.vb	70	70	0	0	0	0	Number of Comments	649						
+	Form8.Designer.vb	390	321	25	4	0	0	Lines of White Space	86						
+	Form8.vb	226	226	0	0	0	0	Potentially Broken/Unfinished Flags	0						
+	Form9.Designer.vb	223	172	19	4	0	0	Potentially Dangerous Code	0						
+	Form9.vb	50	50	0	0	0	0								
+	IProvideChartComponent.vb	0	0	0	0	0	0								
+	uChartFindings.vb	0	0	0	0	0	0								
+	Application.Designer.vb	38	18	12	6	0	0								
+	AssemblyInfo.vb	35	13	13	7	0	0								
+	Resources.Designer.vb	62	31	22	8	0	0								
+	Settings.Designer.vb	73	51	8	13	0	0								
+	Total	12335	10510	649	86	0	0								
